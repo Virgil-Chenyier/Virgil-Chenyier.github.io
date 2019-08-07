@@ -128,7 +128,7 @@
     top: 100%;
     right: 30px;
     left: 30px;
-    bottom: 54px;
+    bottom: 35px;
     overflow: hidden;
     opacity: 0;
     filter: alpha(opacity=0);
@@ -244,7 +244,7 @@
     }
 }
 .material-card.mc-active .mc-description {
-    top: 50px;
+    top: 26px;
     padding-top: 5.6em;
     opacity: 1;
     filter: alpha(opacity=100);
